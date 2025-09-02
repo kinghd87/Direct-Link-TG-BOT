@@ -2,9 +2,9 @@ import telebot
 import os
 import json
 
-TOKEN = "8493162775:AAFveRPJo_wskzR_ZDPV-e5H_71pB8Bm6Uw"  # replace with your bot token
-CHANNEL_ID = "-1002950405626"  # replace with your channel ID
-AUTHORIZED_USER_ID = 23340169  # replace with the authorized user's ID
+TOKEN = ""  # replace with your bot token
+CHANNEL_ID = ""  # replace with your channel ID
+AUTHORIZED_USER_ID =   # replace with the authorized user's ID
 bot = telebot.TeleBot(TOKEN)
 
 # Load existing bot users from file
